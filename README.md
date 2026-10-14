@@ -12,4 +12,4 @@
 - UIPrototype/：迭代计划、需求分析、原型文件
 - src/：小程序源码
 ## 仓库地址
-https://github.com/xxx/activity-signin
+https://github.com/czz1013/system.git
